@@ -1,0 +1,27 @@
+.cart-summary {
+  width: 30vh;
+  
+  height: auto;
+}
+.checkout {
+  color: white;
+  background-color: #0b69ff;
+  width: 90%;
+  border-radius: 10px;
+  border: 0px;
+  margin: 10px;
+  height: 30%;
+}
+
+.para {
+  color: #171f46;
+  font-size: 15px;
+}
+.heading {
+  color: #616e7c;
+  font-size: 20px;
+}
+.span-amount {
+  color: black;
+  font-size: 22px;
+}
